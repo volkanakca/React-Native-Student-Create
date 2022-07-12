@@ -1,3 +1,3 @@
 # React-Native Student Create
-Scenario student creation and authentication done.
+Enary student creation and authentication was done using React native.
 
