@@ -1,2 +1,3 @@
 # React-Native Student Create
- Student Create
+Scenario student creation and authentication done.
+
